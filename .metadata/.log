@@ -293,3 +293,48 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2020-12-06 16:16:40.793
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:14.635
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:14.635
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@12d7ba1[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:14.637
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:14.652
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.745
+!MESSAGE Boot LS startup time from start to initialized: 2103ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.815
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rDKFLunvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.817
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.818
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.819
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.819
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.820
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rDKFLunv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.825
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.828
+!MESSAGE buffering callback sts4.classpath.rDKFLunv hellohuman false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.828
+!MESSAGE executing callback sts4.classpath.rDKFLunv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 16:18:16.850
+!MESSAGE executing callback sts4.classpath.rDKFLunv SUCCESS [done]
